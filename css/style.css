@@ -1,0 +1,25 @@
+h1{
+    font-size: 70px;
+}
+nav{
+    background-color: #f2d11a;
+}
+img{
+    height: 50px;
+    width: auto;
+}
+
+.header{
+    background-color: #cb1a16;
+}
+
+li a{
+    font-size: 20px;
+    margin-left: 20px;
+    color: white;
+}
+
+li a:hover{
+    background-color: #f09a1a;
+    color: white;
+}
