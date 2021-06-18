@@ -32,7 +32,7 @@ app.get('/api/events/:index', (req, res) => {
     .catch(err => res.send('Chyba lávky', err));
 });
 
-app.get('/api/town', (req, res) => {
+app.get('/api/towns', (req, res) => {
     readJSON('public/geografie/data/towns.json')
     .then(data => res.send(data))
     .catch(err => res.send('Chyba lávky', err));
