@@ -46,7 +46,7 @@ function eventsBlock(events) {
    });
 };
 
-fetch('../historie/data/events.json')
+fetch('https://floating-ravine-25095.herokuapp.com/api/events')
      .then(response => {
         return response.json();
      })
@@ -57,7 +57,7 @@ fetch('../historie/data/events.json')
         console.error('Chyba: \n', error);
      });
      
-     fetch('../historie/data/heroes.json')
+     fetch('https://floating-ravine-25095.herokuapp.com/api/heroes')
      .then(response => {
         return response.json();
      })

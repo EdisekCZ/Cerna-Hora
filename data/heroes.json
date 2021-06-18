@@ -1,0 +1,32 @@
+[
+    {
+       "name": "Danilo II. Petrović-Njegoš",
+       "birth": "25. květen 1826",
+       "death": "13. srpen 1860",
+       "biography": "Danilo II. Petrović-Njegoš Černohorský byl devátý černohorský vladyka a první černohorský kníže. Patřil k dynastii Petrović-Njegoš. Narodil se jako syn Savy II. a Angeliky Radamovićové. Před zvolením nástupce Petra II. odjel Danilo (jako vladyka vládl pod jménem Danilo II.) do Vídně a poté do Ruska. Během těchto cest se rozhodl změnit svůj dosavadní život vladyky a stát se historicky prvním knížetem z vládnoucí dynastie Petrović-Njegoš. Po návratu zpět do Černé Hory čekalo na Pera i jeho přátele a stoupence velké překvapení – Danilovu myšlenku stát se knížem silně podpořil i tehdejší ruský car Mikuláš I. Tak trochu nečekaně se Danilo II. stal knížetem (získal tak panovnické jméno Danilo I.) a Pero uznal porážku a vrátil se na pozici předsedy senátu. Danilo byl zavražděn 13. srpna 1860. Byl na něj v Kotoru spáchán atentát, když nastupoval na palubu lodi. Vrah Todor Kadić z organizace Bjelopavlići, která spolupracovala s rakouskými úřady. To je také důvod, proč si někteří Černohorci myslí, že vrah byl rakouský agent. Na druhou stranu část lidí si myslí, že záminkou k atentátu byly osobní záležitosti – přehnaně hrubé chování během Danilovy vlády.",
+       "portraits":[
+          "danilo.jpg"
+       ],
+       "online": "https://cs.wikipedia.org/wiki/Danilo_II._Petrovi%C4%87-Njego%C5%A1"
+    },
+    {
+       "name": "Nikola I. Petrović-Njegoš",
+       "birth": "7. říjen 1841",
+       "death": "1. březen 1921",
+       "biography": "Nikola I. Petrović-Njegoš  byl černohorský vládce, panující mezi lety 1860 – 1910 jako druhý černohorský kníže a od roku 1910 do roku 1918 jako první a poslední černohorský král.",
+       "portraits":[
+          "nikola.jpg"
+       ],
+       "online": "https://cs.wikipedia.org/wiki/Nikola_I._Petrovi%C4%87-Njego%C5%A1"
+    },
+    {
+       "name": "Josip Broz Tito",
+       "birth": "7. května 1892",
+       "death": "4. května 1980",
+       "biography": "Josip Broz Tito byl prezident Socialistické federativní republiky Jugoslávie, předseda Svazu komunistů Jugoslávie, maršál Jugoslávie a vrchní velitel ozbrojených sil SFRJ a vůdce jugoslávského protinacistického odboje za druhé světové války. Po válce patřil mezi zakládající členy kominformy, po roztržce se Sovětským svazem stál při zrodu Hnutí nezúčastněných zemí, jehož hlavním představitelem byl až do své smrti.",
+       "portraits":[
+          "tito.jpg"
+       ],
+       "online": "https://cs.wikipedia.org/wiki/Josip_Broz_Tito"
+    }
+ ]

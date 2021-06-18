@@ -79,7 +79,7 @@ $(function(){
     });
 });
 
-fetch('../geografie/data/towns.json')
+fetch('https://floating-ravine-25095.herokuapp.com/api/towns')
 .then(response => {
     return response.json();
  })
