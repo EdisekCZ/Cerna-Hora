@@ -1,149 +1,170 @@
 [
     {
-        "id":"pljevljaO",
+        "id":"pljevlja",
         "city":"Pljevlja",
-        "peoples":"",
-        "sign":"",
-        "text":""
-     },
+        "peoples":"30 786",
+        "sign":"plz.jpg",
+        "text":"Pljevlja je město v severní části Černé Hory. Je centrem stejnojmenné opštiny s 21 337 obyvateli, která je tvořena 153 sídelními jednotkami. Se svou rozlohou 1,346 km2 se jedná o třetí největší černohorskou opštinu. Nachází se v historických regionech Sandžak, resp. Stará Hercegovina. Samotné město je soustředěno v pljevaljské kotlině na řece Ćehotině, v jednom z mála příkladů rovinaté krajině v převážně hornatém okolí.",
+        "photo":"pl.jpg"
+      },
      {
-        "id":"bjeloPoljeO",
+        "id":"bjeloPolje",
         "city":"Bjelo Polje",
-        "peoples":"",
-        "sign":"",
-        "text":""
-     },
+        "peoples":"15 883",
+        "sign":"bpz.jpg",
+        "text":"Bijelo Polje je město na severu Černé Hory. Město leží na území historického regionu s názvem Novopazarského sandžaku, necelých 10 km od hranic se Srbskem, 75 km severovýchodně od Podgorici a 70 km východně od Nikšiće. V roce 2011 zde žilo 15 400 obyvatel. Pravoslavné srbské obyvatelstvo zde mírně převažuje nad muslimským. Ve stejnojmenné obci (opština) žije 46 051 obyvatel na území 924 km². Město se rozkládá na obou březích údolí řeky Lim, u soutoku s říčkou Lještina. Je obklopeno vrcholky s nadmořskou výškou cca 800–1000 m n. m. Jižním směrem od něj se nachází národní park Biogradska Gora a pohoří Crna glava, je častým výchozím bodem pro turistické výpravy do této oblasti.",
+        "photo":"bp.jpg"
+      },
      {
-        "id":"beraneO",
+        "id":"berane",
         "city":"Berane",
-        "peoples":"",
-        "sign":"",
-        "text":""
-     },
+        "peoples":"11 776",
+        "sign":"bez.jpg",
+        "text":"Berane je město na severovýchodě Černé Hory. Je centrem opštiny Berane. V roce 2003 mělo 11 776 obyvatel. Berane se nachází mezi pohořími Bjelasica a Rugovo ne řece Lim. Přestože byla tato oblast osídlena již před pěti tisíci lety, samotné město bylo založeno Turky až roku 1862 (dříve zde stála vesnice Budimija, založená na místě římské osady). Biskupství bylo založeno v roce 1219 (klášter Đurđevi Stupovi). Dalšími zdejšími zajímavostmi jsou památník Svobody a také klášter Šudikovo. Nedaleko města, na soutoku řek Lješnica a Lim, se nachází zbytky středověkého města Bihor, sídla stejnojmenného kmene.",
+        "photo":"be.jpg"
+      },
      {
-        "id":"rozajeO",
+        "id":"rozaje",
         "city":"Rožaje",
-        "peoples":"",
-        "sign":"",
-        "text":""
-     },
+        "peoples":"9 422",
+        "sign":"roz.jpg",
+        "text":"Rožaje je město a opština, ležící ve východním cípu Černé Hory, u hranice s Kosovem v historické oblasti Sandžaku. Žije zde celkem 9 121 obyvatel (2003), v celém okolí pak bydlí 22 000 lidí. Město se nachází na významné spojnici mezi vnitrozemím Černé Hory a Kosovem, procházející městy Rožaje-Kula-Peć.",
+        "photo":"ro.jpg"
+      },
      {
         "id":"zabljak",
         "city":"Žabljak",
-        "peoples":"",
-        "sign":"",
-        "text":""
-     },
+        "peoples":"1 973",
+        "sign":"zabz.jpg",
+        "text":"Žabljak je město ležící na severu Černé Hory. Žijí v něm necelé 2000 obyvatel. Město je situováno uprostřed náhorní plošiny pohoří Durmitor, které je přírodní památkou UNESCO a národním parkem. Jeho střed se nachází v nadmořské výšce kolem 1450 m n. m.",
+        "photo":"zab.jpg"
+      },
      {
-        "id":"mojkovacO",
+        "id":"mojkovac",
         "city":"Mojkovac",
-        "peoples":"",
-        "sign":"",
-        "text":""
-     },
+        "peoples":"10 066",
+        "sign":"mojz.jpg",
+        "text":"Mojkovac je město v severní části Černé Hory. Je centrem stejnojmenné opštiny a žije zde 4 120 obyvatel. Leží na břehu řeky Tary v horské krajině, je obklopen pohořími Bjelasica a Sinjajevina. Prochází tudy železniční trať Bělehrad – Bar.",
+        "photo":"moj.jpg"
+      },
      {
-        "id":"andrijevicaO",
+        "id":"andrijevica",
         "city":"Andrijevica",
-        "peoples":"",
-        "sign":"",
-        "text":""
-     },
+        "peoples":"1 073",
+        "sign":"andz.jpg",
+        "text":"Andrijevica je město ve východní části Černé Hory. Je centrem stejnojmenné opštiny s 5 785 obyvateli (samo má 1073 obyvatel). Je považováno za neoficiální centrum regionu Vasojevići. Centrum města představuje několik patrových domů, které se rozkládají kolem městského parku a hotelu Komovi. Nacházejí se na plošině cca 40 m vysoko nad úrovní řeky Lim. Zástavba se od tohoto centra rozkládá jak severně po, tak i jižně proti proudu řeky. Nachází se na úpatí pohoří Komovi, Bjelasica a Prokletije. Jižně od centra města se nachází soutok řeky Lim s říčkou Zlorečica. Samotné město se rozkládá v nadmořské výšce okolo 800-900 m (údolí řeky Lim má výšku 760 m). Andrijevicí pochází silniční komunikace Bijelo Polje - Plav. Železniční spojení se zbytkem země nemá ",
+        "photo":"and.jpg"
+      },
      {
-        "id":"plavO",
+        "id":"Plav",
         "city":"Plav",
-        "peoples":"",
-        "sign":"",
-        "text":""
-     },
+        "peoples":"13 805",
+        "sign":"plavz.jpg",
+        "text":"Plav je město v severovýchodní části Černé Hory. Je centrem stejnojmenné opštiny s 13 805 obyvateli a samo má 3 615 obyvatel. Administrativně pod něj spadá celá řada dalších vesnic, včetně městečka Gusinje. Město se nachází severně od známého Plavského jezera, které obklopují různá pohoří, např. Prokletije. Jezero je hlavním turistickým lákadlem města, byť se v Plavu nachází celá řada dalších historických objektů (středověká věž a několik mešit z dob existence Osmanské říše).",
+        "photo":"plav.jpg"
+      },
      {
-        "id":"pluzineO",
+        "id":"pluzine",
         "city":"Plužine",
-        "peoples":"",
-        "sign":"",
-        "text":""
-     },
+        "peoples":"1 494",
+        "sign":"pluz.jpg",
+        "text":"Plužine je město a opština, ležící na severu Černé Hory. Ve městě žije celkem 1 494 obyvatel a v celé opštině o rozloze 854 km² pak 4 272 lidí. Město nemá dlouhou historii; vybudováno bylo v 70. letech pro obyvatele těch vesnic, jež byly zničeny při budování přehrady Mratinje. Na břehu této přehradní nádrže se město právě nachází. Silničně je propojeno s Bosnou a Hercegovinou (město Foča, severním směrem) a Nikšićem s Podgoricí (jižním směrem).",
+        "photo":"plu.jpg"
+      },
      {
-        "id":"savnikO",
+        "id":"savnik",
         "city":"Šavnik",
-        "peoples":"",
-        "sign":"",
-        "text":""
-     },
+        "peoples":"570",
+        "sign":"savz.jpg",
+        "text":"Šavnik je město v severní části Černé Hory. Bylo založeno roku 1861. Je neoficiální střediskem regionu Drobnjaci pojmenovaného podle stejnojmenného srbského klanu. Je centrem stejnojmenné opštiny s 2 947 obyvateli rozkládající se na 553 km². Samotné město má 570 obyvatel (údaj z roku 2003). Opština je vedle města tvořena také 27 dalšími vesnicemi.",
+        "photo":"sav.jpg"
+      },
      {
-        "id":"kolasinO",
+        "id":"kolasin",
         "city":"Kolasin",
-        "peoples":"",
-        "sign":"",
-        "text":""
-     },
+        "peoples":"8 380",
+        "sign":"koz.jpg",
+        "text":"Kolašin je město v severní části Černé Hory. Je centrem stejnojmenné opštiny s 8 380 obyvateli; v samotném Kolašinu žije 2 725 obyvatel (2011). Jedná se o neoficiální centrum regionu Morača, který byl pojmenován podle stejnojmenné řeky.",
+        "photo":"ko.jpg"
+      },
      {
-        "id":"niksicO",
+        "id":"niksic",
         "city":"Nikšič",
-        "peoples":"",
-        "sign":"",
-        "text":""
-     },
+        "peoples":"58 212",
+        "sign":"niz.jpg",
+        "text":"Nikšić je s téměř 60 000 obyvateli druhé největší město Černé Hory, v západní části země pod vrcholem Trebjesa. Město je centrem stejnojmenné opštiny. Nikšić je vzdálen cca 50 km severně od Podgorici, 125 km jižně od Sarajeva a 50 km severovýchodně od města Herceg Novi v Boce Kotorské.",
+        "photo":"ni.jpg"
+      },
      {
-        "id":"danilovgradO",
+        "id":"danilovgrad",
         "city":"Danilovgrad",
-        "peoples":"",
-        "sign":"",
-        "text":""
-     },
+        "peoples":"18 472",
+        "sign":"daniz.jpg",
+        "text":"Danilovgrad je město ve střední části Černé Hory. Je centrem stejnojmenné opštiny s 18 472 obyvateli, přičemž v roce 2011 žilo v samotném Danilovgradu 5 156 obyvatel. Nachází se v údolí řeky Zeta, na jejím pravém břehu a na hlavní silnici spojující druhé největší černohorské město Nikšić s hlavním městem Podgoricí. Ve městě se nacházejí kasárny Černohorské armády.",
+        "photo":"dani.jpg"
+      },
      {
-        "id":"podgoricaO",
+        "id":"podgorica",
         "city":"Podgorica",
-        "peoples":"",
-        "sign":"",
-        "text":""
-     },
+        "peoples":"185 937",
+        "sign":"podz.jpg",
+        "text":"Podgorica je hlavní a největší město Černé Hory a zároveň ekonomické, kulturní a vzdělávací centrum země. V roce 2011 zde žilo 151 312 obyvatel. Město má výhodnou polohu při soutoku řek Morača a Ribnica v nadmořské výšce pouhých 44 metrů, v místě setkání Bjeloplavićského údolí a Zetské nížiny, asi 40 km od Jaderského moře 30 km severně od Skadarského jezera - velice blízko zimních lyžařských středisek na severu a přímořských letních destinací na pobřeží. Dnešní město představuje směsici nejrůznějších architektonických stylů, které se odráží v pohnutých dějinách města a celé Černé Hory (jeden režim byl nahrazován druhým, což se projevilo na vzhledu města). Osmanská nadvláda do roku 1878[5] zapříčinila vytvoření mnohých příkladů turecké architektury; podgorické Staré město se nazývá Stara Varoš a spolu s další starou čtvrtí Drač jsou pro ni typické křivolaké úzké uličky, nízké obytné baráčky, mešity a hodinová věž Sahat-kula. Po uznání černohorské nezávislosti a začlenění Podgorice do Černé Hory se hlavní městské centrum přesunulo na druhý břeh řeky Ribnice, kde se rozvíjelo v moderním evropském duchu – na sebe kolmé široké ulice a vertikálněji navržené budovy se staly dominantou města. Tato část města je tradičně považována za Nové Město (Nova Varoš). Během druhé světové války byla Podgorica mnohokrát bombardována a prakticky srovnána se zemí, velká část města z tureckých časů zmizela. Po osvobození komunisty a vytvoření socialistické Jugoslávie se Podgorica stala metropolí Černé Hory a ohniskem rychlé industrializace a urbanizace v rámci Jugoslávie. Město se začalo vyvíjet v duchu zemí východního bloku. Druhý břeh řeky Morače, dříve využívaný pouze pro účely královské rodiny, se proměnil v moderní zastavěnou část města. Rozlehlá náměstí a široké bulváry se staly dominantou moderní Podgorice. Celá nová část byla vybudována v brutalistickém stavebním stylu; dokonce i prázdná místa v historickém jádru města byla vyplněna novými brutalistickými stavbami, což vede k nešťastnému spojení starého a nového. Tento jugoslávský styl zástavby sice poskytl dostatek prostoru pro ubytování obyvatel, ale je velice kritizován pro svůj nenápaditý a ponuře šedý vzhled.",
+        "photo":"pod.jpg"
+      },
      {
-        "id":"cetinjeO",
+        "id":"cetinje",
         "city":"Cetinje",
-        "peoples":"",
-        "sign":"",
-        "text":""
-     },
+        "peoples":"15 137",
+        "sign":"cetz.jpg",
+        "text":"Cetinje je město v Černé Hoře, ležící v jižní části země, 35 km jihozápadně od hlavního města Podgorice. Žije zde 15 137 obyvatel. Do roku 1918 bylo hlavním městem Černohorského knížectví a poté království a v rámci Jugoslávského království pak už jen správním sídlem Zetské bánoviny. Svůj význam si město získalo v časech nezávislé Černé Hory, kdy mělo statut hlavního města. Sídlili zde panovníci země z dynastie Petrovićů-Njegošů, diplomatická zastupitelství cizích států a hlavní černohorské kulturní i církevní instituce. Po začlenění do Jugoslávie ztrácela Cetinje svou důležitost, významnější průmysl se tu nikdy nerozvinul a město se postupně stávalo „městem-muzeem“. Po přestěhování hlavního města do Podgorice (v červenci 1946) nastala definitivně éra stagnace. Po obnovení černohorské nezávislosti (2006) se uvažuje, že se některé státní orgány přesunou do Cetinje zpět, aby došlo k oživení města a byl zdůrazněn jeho historický význam.",
+        "photo":"cet.jpg"
+      },
      {
-        "id":"kotorO",
+        "id":"kotor",
         "city":"Kotor",
-        "peoples":"",
-        "sign":"",
-        "text":""
-     },
+        "peoples":"5 341",
+        "sign":"kotz.jpg",
+        "text":"Kotor, italsky Cattaro, je město a přístav v jihozápadní části Černé Hory. Rozkládá se na samém konci boky Kotorské, hlubokého zálivu na pobřeží Jaderského moře, na úpatí horského masivu Lovćen. V samotném městě žije 1 331 obyvatel (s přilehlými osadami 22 974 obyvatel).",
+        "photo":"kot.jpg"
+      },
      {
-        "id":"hercegNoviO",
+        "id":"horcegnovi",
         "city":"Herceg Novi",
-        "peoples":"",
-        "sign":"",
-        "text":""
-     },
+        "peoples":"16 493",
+        "sign":"hercz.jpg",
+        "text":"Herceg Novi je město v severní části pobřeží Černé Hory. S okolím zde žije až 27 000 obyvatel. Herceg Novi leží u ústí boky Kotorské do Jaderského moře, poblíž hranic s Chorvatskem a Bosnou a Hercegovinou (ta se nachází dále od moře). Navazuje na městečko Igalo. Před vlivy z vnitrozemí je chráněn vysokým horským masívem pohoří Orjen.",
+        "photo":"herc.jpg"
+      },
      {
-        "id":"tivatO",
+        "id":"tivat",
         "city":"Tivat",
-        "peoples":"",
-        "sign":"",
-        "text":""
-     },
+        "peoples":"9 467",
+        "sign":"tivatz.jpg",
+        "text":"Tivat je město v Černé Hoře, ležící u zálivu Boka Kotorska. Jedná se o významné turistické letovisko s množstvím hotelů. Ve městě a blízkém okolí je množství malých kostelů převážně z 15. až 17. století, nejvýznamnější kostel, sv. Antonína, pochází ze 14. století.",
+        "photo":"tivat.jpg"
+      },
      {
-        "id":"budvaO",
+        "id":"budva",
         "city":"Budva",
-        "peoples":"",
-        "sign":"",
-        "text":""
-     },
+        "peoples":"19 218",
+        "sign":"budvaz.jpg",
+        "text":"Budva (srbsky Будва, latinsky Butua, Butoba) je město na jaderském pobřeží v Černé Hoře. Je sídlem stejnojmenné opštiny (správní jednotky zahrnující okolní sídla). V roce 2003 zde žilo 10 918 obyvatel. Podle názoru Ernsta Eichlera je původ současného názvu nejspíše z albánského slova butë, který označuje měkký a bylo přes ilyrské obyvatelstvo nejspíše převzato v rané době existence města. V srbštině/černohorštině zní název města Budva, v italštině a latině Budua, v albánštině Budua a v řečtině Βουθόη.",
+        "photo":"budva.jpg"
+      },
      {
-        "id":"barO",
+        "id":"bar",
         "city":"Bar",
-        "peoples":"",
-        "sign":"",
-        "text":""
-     },
+        "peoples":"13 719",
+        "sign":"barz.jpg",
+        "text":"Bar (v srbské cyrilcii Бар, italsky Antivari, albánsky Tivari) je město na černohorském pobřeží Jaderského moře, v jižní části země. Se svými 13 503 obyvateli patří k větším městům v zemi. Je známé především díky svému přístavu. Zhruba 8 km východně od města se nachází hora Rumija (1594 m n. m.), jež by se dala považovat za nejvyšší horu jižní části Černé Hory.",
+        "photo":"bar.jpg"
+      },
      {
         "id":"ulcinj",
         "city":"Ulcinj",
-        "peoples":"",
-        "sign":"",
-        "text":""
-     }   
+        "peoples":"19 921",
+        "sign":"ulciz.jpg",
+        "text":"Ulcinj je město na jihu Černé Hory, blízko Skadarského jezera a hranic s Albánií. Oblíbené turistické letovisko se nachází na břehu Jaderského moře. Žije zde 10 707 obyvatel. Ve městě žije početná albánská komunita (cca 60 % obyvatel). Historik Plinius starší zaznamenal ve svém spise Naturalis historia (Přírodopis) v 1. století existenci města pod jménem Olcinium. Původní jméno znělo v latině Colchinium a odkazuje na zakladatele z Kolchidy (v dnešní Gruzii): Olchinium quod antea Colchinium dictum est a Colchis conditum. Ptolemaios jej označil řeckým jménem Oulkinion (Ουλκίνιον). Jméno však může také pocházet z albánského slova ujk/ulk – z původního (w)ulk, označujícího vlka a pocházejícího z praindoevropského *wĺ̥kʷos, srovnatelného i se slovanskými jazyky. Současná podoba jména města vznikla ve vulgární latině; do italštiny bylo přejato jako Dulcigno, do srbštiny/černohorštiny jako Ulcinj, do albánštiny jako Ulqin a do turečtiny jako Ülgün. Srbská/černohorská podoba Ulcinj má i dvě starší varianty Lьcinь a Ocinj, které se však v současné době již nepoužívají.",
+        "photo":"ulci.jpg"
+      }
 ]
