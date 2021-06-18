@@ -20,6 +20,12 @@ app.get('/api/events', (req, res) => {
     .catch(err => res.send('Chyba lávky', err));
 });
 
+app.get('/api/heroes', (req, res) => {
+    readJSON('data/heroes.json')
+    .then(data => res.send(data))
+    .catch(err => res.send('Chyba lávky', err));
+});
+
 app.get('/api/events/:index', (req, res) => {
     readJSON('historie/data/events.json')
     .then(data => res.send(data[req.params.index]))
